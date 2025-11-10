@@ -4,5 +4,5 @@
 />
 </p>
 
-# Engenheiros-do-Imperio
+# Engenheiros do Imperio
 Subtítulo: Papo afiado sobre quadrinhos, tecnologia e o futuro das criações nerds.
